@@ -11,4 +11,5 @@ This demonstration attempts to follow the command/query separation principle usi
 While the idea has been started by myself I must also give credit to Steven van Deursen as his blog on the principle (ironically separated into two posts) were a great help and inspiration to me.
 
 Command: https://cuttingedge.it/blogs/steven/pivot/entry.php?id=91
+
 Query: https://cuttingedge.it/blogs/steven/pivot/entry.php?id=92
